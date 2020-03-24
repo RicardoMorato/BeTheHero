@@ -1,16 +1,15 @@
 const express = require('express');
+const cors = require('cors');
+const routes = require('./routes');
 
 const app = express();
+
+app.use(cors());
+app.use(express.json());
+app.use(routes);
 
 port = process.env.PORT || 3333,
 
 app.listen(port, () => {
   console.log(`Running on port ${port}`);
-});
-
-app.get('/', (req, res) => {
-  return res.json({
-    BeTheHero: 'Done',
-    Author: 'Ricardo Morato Rocha'
-  });
 });
