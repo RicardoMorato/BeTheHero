@@ -1,8 +1,5 @@
 # BeTheHero
-Project made during the semanaOmnistack11
-
-# Proffy
-> 🚀 Project made during the Next Level Week #2.
+> 🚀 Project made during the semanaOmnistack11.
 
 ## :package: Installation
 
