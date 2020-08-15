@@ -7,7 +7,7 @@
 
 ```shell
 # Enter the folder
-cd web
+cd frontend
 ```
 
 ```shell
@@ -24,7 +24,7 @@ yarn
 ```shell
 # Get out of the front-end folder and enter the server folder
 cd ..
-cd server
+cd backend
 ```
 
 ```shell
