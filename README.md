@@ -1,4 +1,5 @@
 # BeTheHero
+
 > 🚀 Project made during the semanaOmnistack11.
 
 ## :package: Installation
@@ -6,7 +7,7 @@
 ### Front-end
 
 ```shell
-# Enter the folder
+# Enters the folder
 cd frontend
 ```
 
@@ -14,15 +15,18 @@ cd frontend
 # Installs the dependencies using NPM
 npm i
 ```
+
 or
+
 ```shell
 # Installs the dependencies using yarn
 yarn
 ```
 
 ### Back-end
+
 ```shell
-# Get out of the front-end folder and enter the server folder
+# Gets out of the front-end folder and enters the server folder
 cd ..
 cd backend
 ```
@@ -31,15 +35,18 @@ cd backend
 # Installs the dependencies using NPM
 npm i
 ```
+
 or
+
 ```shell
 # Installs the dependencies using yarn
 yarn
 ```
 
 ### Mobile
+
 ```shell
-# Get out of the front-end folder and enter the server folder
+# Gets out of the front-end folder and enters the server folder
 cd ..
 cd mobile
 ```
@@ -48,7 +55,9 @@ cd mobile
 # Installs the dependencies using NPM
 npm i
 ```
+
 or
+
 ```shell
 # Installs the dependencies using yarn
 yarn
@@ -56,14 +65,13 @@ yarn
 
 ## :cloud: Usage
 
-After you've installed the dependencies, you'll need to run the projects on every folder using the script
+After you've installed the dependencies, you'll need to run the projects on every folder using the script below
 
 ```shell
 yarn start
 ```
 
 > ⚠️ NOTE: In order for the mobile to run properly you must have expo installed
-
 
 ## :man: Author
 
